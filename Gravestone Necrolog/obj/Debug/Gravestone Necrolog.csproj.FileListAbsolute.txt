@@ -1,0 +1,8 @@
+D:\games\RimWorld\Mods\Gravestone Necrolog\Assemblies\Gravestone_Necrolog.dll
+D:\games\RimWorld\Mods\Gravestone Necrolog\Gravestone Necrolog\obj\Debug\Gravestone Necrolog.csproj.AssemblyReference.cache
+D:\games\RimWorld\Mods\Gravestone Necrolog\Gravestone Necrolog\obj\Debug\Gravestone Necrolog.csproj.CoreCompileInputs.cache
+D:\games\RimWorld\Mods\Gravestone Necrolog\Gravestone Necrolog\obj\Debug\Gravestone_Necrolog.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Gravestone Necrolog\Assemblies\Gravestone_Necrolog.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Gravestone Necrolog\Gravestone Necrolog\obj\Debug\Gravestone Necrolog.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Gravestone Necrolog\Gravestone Necrolog\obj\Debug\Gravestone Necrolog.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Gravestone Necrolog\Gravestone Necrolog\obj\Debug\Gravestone_Necrolog.dll

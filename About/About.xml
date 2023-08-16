@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Gravestone necrolog</name>
+  <author>lordExternus</author>
+  <packageId>lordExternus.GravestoneNecrolog</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <url>none</url>
+  <description>This mode allows you to write a necrolog on someone`s gravestone to immortalize this pawn in history.\n\nFor version 1.4.</description>
+</ModMetaData>
